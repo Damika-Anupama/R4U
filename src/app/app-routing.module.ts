@@ -28,6 +28,10 @@ const routes: Routes = [
         component: ResearchComponent,
         path: 'research',
       },
+      {
+        component: ResearchComponent,
+        path: 'research',
+      },
     ],
   },
   {
